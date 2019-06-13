@@ -1,0 +1,24 @@
+#app-root {
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+}
+
+header {
+    text-align: center;
+}
+
+.profile-img img {
+    width: 20%;
+    border: 2px solid black;
+}
+
+.contact-info address {
+    font-style: normal;
+}
+
+.prev-jobs {
+}
+
+section ul {
+    list-style: none;
+}
